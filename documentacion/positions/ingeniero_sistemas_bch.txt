@@ -1,0 +1,31 @@
+Buscamos a profesionales que vivan la transformación, se adapten ágilmente a los cambios y construyan con otros promoviendo ideas y desplegando las habilidades necesarias para el ejercicio de su rol!
+Si te apasiona el mundo de la tecnología, te invitamos a integrarte a este proceso en Banco de Chile, contribuyendo a la experiencia de nuestros clientes y formando parte de una cadena de valor colaborativa.
+Como organización, estamos constantemente buscando la vanguardia tecnológica en nuestros procesos para lograr la eficiencia en los servicios y productos que requieren nuestros clientes. Requerimos incorporar profesionales en el área de tecnologías de la información para desarrollar procesos óptimos, continuos y seguros.
+¡Con Colaboración construimos el mejor banco para nuestros clientes!
+
+
+En Banco de Chile nos encontramos en búsqueda de Ingeniero/a Sistemas, quién tendrá el objetivo de garantizar la confidencialidad, integridad y disponibilidad de la información transmitida, procesada y almacenada en las plataformas a su cargo. Así como también, administrar y explotar servicios TI en ambiente de producción asegurando altos estándares de calidad, preservando la continuidad del servicio y el control interno, asegurar que las plataformas se encuentran debidamente parchadas y actualizadas, con mantenciones preventivas y con monitoreos integrales (E2E: HW/SW, de negocio: transaccional) para asegurar correcto despliegue de servicios TI.
+
+
+Funciones Principales:
+
+- Implementar el plan de administración y explotación integral, para garantizar el correcto despliegue de las plataformas a su cargo verificando la ejecución en tiempo y forma de los procesos online y batch, asegurando con ello la disponibilidad de servicios para clientes internos y externos.
+- Atender, informar, solucionar y/o gestionar los problemas reportados por las unidades operativas, por monitoreo o por la mesa de ayuda de clientes; con foco en el restablecimiento de la correcta operación (en el menor tiempo posible) de las plataformas que administra.
+- Documentar en tiempo y forma los Informes de Causa Raíz de los incidentes y problemas que tiene asignado. Asegurar que los documentos sean consistentes y concluyan dentro de los SLA.
+- Controlar que se implementen en tiempo y forma la totalidad de planes de acción (correcciones) asociados a incidentes/problemas de las plataformas que administra.
+- Coordinar e implementar despliegues de software sobre las plataformas que administra (nuevas funcionalidades – mantenciones), adhiriendo al proceso de control de cambios y control de versiones vigente en el Banco
+- Verificar sistemáticamente el entorno de operación de las plataformas a su cargo: estado de servidores, base de datos, interfaces de entrada /salida esperadas, infraestructura de contingencia, sistemas satélites, mallas de procesamiento, log de eventos para identificación proactiva de condiciones anormales recurrentes, gestión de hallazgos de monitoreo.
+- Participar en las diferentes etapas de proyectos que modifican directa o indirectamente las plataformas que tiene a su cargo (diseño, análisis de capacidad, detección de puntos de falla, pruebas, implementación, monitoreo, seguimiento post implementación), entre otras funciones.
+
+
+Requisitos del Cargo:
+
+- Titulado/a de Ingeniería Civil Informática o Ingeniería en Ejecución informática.
+- Experiencia mínima 3 años en la implementación y explotación de sistemas de información transaccionales.
+- Conocimientos en Sistemas Operativos (AIX, Windows, UNIX-Avanzado), Base de Datos (Oracle, SQL), Redes, Java (Lenguaje de programación y plataforma), Phyton y Cloud Azure (diseños, arquitectura y administración de Microservicios)
+- Inglés Técnico nivel intermedio.
+- Explotación de CTRL-M V9 Avanzado
+- Administración de DataStage
+- Programación con Shell Unix Intermedio
+- Conocimiento herramientas de monitoreo por ejemplo Splunk, Dynatrace y Zabbix
+- Conocimiento herramienta para gestión de informes Power BI

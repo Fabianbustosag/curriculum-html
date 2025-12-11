@@ -1,0 +1,31 @@
+Responsabilidades Generales
+
+https://www.ibm.com/docs/es/integration-bus/10.0.0?topic=formats-iso8583-messaging-standard
+
+• Analizar, levantar y documentar requerimientos funcionales y técnicos relacionados con soluciones de medios de pago (POS, ATM, e-commerce, adquirencia, emisores, etc.). 
+• Diseñar soluciones tecnológicas óptimas y escalables, alineadas con los estándares y mejores prácticas de la industria de medios de pago (PCI DSS, ISO 8583, EMV, etc.). 
+• Colaborar con equipos multidisciplinarios (desarrollo, QA, infraestructura, negocio) para asegurar la correcta implementación de las soluciones propuestas. 
+• Realizar estimaciones técnicas y documentación de alto nivel para las soluciones diseñadas. 
+• Participar activamente en el ciclo de vida del desarrollo de software, desde el análisis hasta la puesta en producción y soporte post-implementación. 
+• Identificar oportunidades de mejora continua en procesos y sistemas relacionados con la operación de medios de pago. 
+• Garantizar el cumplimiento de normativas de seguridad y estándares de calidad en todas las etapas del diseño y desarrollo. 
+• Apoyar en la investigación y evaluación de nuevas tecnologías y proveedores relacionados con el ecosistema de pagos electrónicos. 
+
+
+Conocimiento y Destrezas Requeridas
+
+
+
+• Experiencia en el manejo de alguno de los siguientes lenguajes de programación: C++ / C# / Python / Java / .NET. 
+• Experiencia en administración y uso de bases de datos como: Oracle, SQL, MySQL (nivel intermedio-avanzado). 
+• Conocimientos en protocolos de comunicación TCP/IP. 
+• Conocimiento y experiencia en medios de pago. 
+• Dominio del idioma inglés a nivel B2 (intermedio-avanzado). 
+• Compromiso con el logro de objetivos y capacidad para desenvolverse eficazmente en contextos dinámicos. 
+• Excelentes habilidades de comunicación y trabajo en equipo con áreas técnicas y de negocio. 
+• Proactividad para investigar nuevas tecnologías y tendencias en el ecosistema de pagos digitales. 
+• Compromiso con la seguridad, la calidad y la mejora continua. 
+• Conocimiento de EPS y/o Base 24 clásico - B24 (deseable). 
+• Conocimiento del procesamiento de transacciones con VISA y MASTERCARD (deseable). 
+• Conocimiento de procesamiento con terminales POS o ATM (deseable). 
+• Conocimientos de estándares de mensajería: ISO 8583 (deseable). 

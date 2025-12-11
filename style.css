@@ -43,11 +43,19 @@ header.contact-info a {
     font-weight: bold;
     color: #333;
     letter-spacing: 2px;
+    margin-top: 8px;
+    margin-bottom: 8px;
 }
 
 .section-subtitle {
     font-size: 0.8rem;
     line-height: 1.2;
+    
+}
+
+h3.header{
+    margin-top: 1px;
+    margin-bottom: 1px;
 }
 
 .header-job{

@@ -1,0 +1,7 @@
+Concepto	Chile	Puerto Rico (ATH)
+Red de cajeros	Redbanc	ATH Network
+Pagos débito	Transbank	ATH
+App de pagos	Mach / Tenpo / BancoEstado	ATH Móvil
+
+ISO 20002
+
