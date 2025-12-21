@@ -1,0 +1,89 @@
+{
+  "experiencia": [
+    {
+      "compania": "Gpsur",
+      "tarea": "Tareas variadas",
+      "descripcion": [
+        "Desarrollo y mantenimiento de módulos ERP en Recursos Humanos, Facturación y Contabilidad",
+        "Diseño y optimización de interfaces de usuario con JavaScript y Bootstrap, priorizando usabilidad y experiencia de usuario",
+        "Implementación de lógica de negocio backend con PHP y PostgreSQL",
+        "Corrección de errores, análisis de incidentes y optimización de rendimiento",
+        "Participación en el diseño funcional y estructural del sistema, definiendo flujos y arquitectura",
+        "Soporte técnico en terreno para instalación y mantenimiento de dispositivos GPS"
+      ]
+    },
+    {
+      "compania": "Gpsur",
+      "tarea": "Logística - QR",
+      "descripcion": [
+        "Desarrollo de un sistema para gestión de vehículos almacenados y listos para entrega",
+        "Control de estados y notificación a clientes",
+        "Seguimiento completo del vehículo desde ingreso a depósito hasta salida",
+        "Generación de PDFs, envío de correos y capturas mediante QR",
+        "Generación de órdenes de servicio integradas a procesos logísticos existentes",
+        "Documentación funcional y técnica",
+        "Definición y escritura de casos de prueba"
+      ]
+    },
+    {
+      "compania": "Gpsur",
+      "tarea": "Seguimiento - DVR",
+      "descripcion": [
+        "Desarrollo de plataforma web para gestión y visualización de grabaciones DVR",
+        "Selección de dispositivo y fecha para listar videos",
+        "Visualización de grabaciones en timeline temporal",
+        "Descarga de videos",
+        "Centralización y automatización de la gestión de archivos de video"
+      ]
+    },
+    {
+      "compania": "Gpsur",
+      "tarea": "Facturación electrónica",
+      "nivel": "Conocimiento básico",
+      "descripcion": [
+        "Generación de facturas y boletas electrónicas según normativa del SII (Chile)",
+        "Manejo de folios y numeración secuencial",
+        "Cálculo de impuestos (IVA)",
+        "Procesos básicos de integración y comunicación con el SII",
+        "Almacenamiento seguro de documentos electrónicos",
+        "Generación de reportes simples de ventas e impuestos"
+      ]
+    },
+    {
+      "compania": "Proyecto propio",
+      "tarea": "Proyecto de tesis universitaria",
+      "descripcion": [
+        "Implementación de prácticas de seguridad informática en la aplicación Not Waste",
+        "Uso del marco OWASP SAMM para fortalecer seguridad de software y datos",
+        "Investigación de estándares y marcos: ISO 27001, NIST CSF, OWASP SAMM y OWASP ASVS",
+        "Aplicación de prácticas de seguridad en un proyecto en etapa inicial",
+        "Análisis de mejoras futuras en el ciclo de vida de desarrollo seguro (SSDLC)",
+        "Evaluación de madurez de seguridad del proyecto"
+      ],
+      "tecnologias_y_marcos": [
+        "ISO 27001",
+        "OWASP",
+        "OWASP SAMM",
+        "OWASP ASVS",
+        "NIST CSF",
+        "SSDLC",
+        "GDPR",
+        "Testing"
+      ],
+      "proyecto_relacionado": {
+        "nombre": "Not Waste",
+        "descripcion": "Aplicación móvil para la reducción del desperdicio de alimentos en los hogares, desarrollada en conjunto con compañeros de universidad"
+      }
+    }
+  ],
+  "sobre_mi": {
+    "intereses": [
+      "Rubro bancario y financiero",
+      "Investigación autodidacta en estándares financieros"
+    ],
+    "conocimientos_en_investigacion": [
+      "ISO 8583",
+      "Protocolo FIX"
+    ]
+  }
+}

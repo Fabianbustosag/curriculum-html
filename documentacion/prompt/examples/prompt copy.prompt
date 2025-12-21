@@ -1,0 +1,47 @@
+Tengo dos conjuntos de datos en formato JSON:
+
+1) Mi CV:
+
+2) Oferta laboral:
+
+3) Detalles
+
+Proyectos
+
+Proyectos
+
+General 
+
+
+
+==================================================================================================================================
+
+  PROMPT
+
+==================================================================================================================================
+
+---
+
+Quiero que, con base en estos datos, me generes un **currículum vitae mejorado en espanol**, que:
+
+- Sea claro y profesional.
+- Use palabras clave relevantes para la posición de la oferta laboral.
+- Se adecue el texto de mi cv a lo que se pide en puesto de trabajo, toma en cuenta la inforamcion sobre mi tambien.
+- Resalte las habilidades, experiencias y logros que encajen con la oferta.
+- Optimice el texto para pasar sistemas ATS (Applicant Tracking Systems).
+- Mejore la estructura y redacción para postular con éxito.
+
+Por favor, entrega el resultado en texto plano, formato CV listo para usar.
+
+---
+
+Opcionalmente, dame al menos 3 versiones alternativas de la introducción profesional y de las responsabilidades en la experiencia laboral, para que pueda elegir la que mejor se adapte.
+
+---
+
+**Nota:** No traduzcas literalmente el texto original, adapta el contenido para que sea efectivo para la posición objetivo y el mercado laboral.
+**Nota:** (esta instruccion es solo del FORMATO DE ENTREGA) El formato de entrega debe ser en formato json, como el que introduczco al incio.
+
+---
+
+Gracias.

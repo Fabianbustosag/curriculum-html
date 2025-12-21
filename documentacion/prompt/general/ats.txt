@@ -1,0 +1,29 @@
+El ATS busca:
+
+-Cargos coincidentes con la oferta.
+-Responsabilidades alineadas con el puesto.
+-Tecnologías, herramientas y metodologías explícitas.
+-Duración clara (fechas, continuidad).
+-Verbos de acción reconocibles.
+-Si una palabra clave está en la oferta, debe aparecer (naturalmente) en el perfil y/o experiencia.
+
+Formato que mejor interpreta un ATS:
+
+Cargo
+- Empresa
+- Fechas
+- Viñetas claras (no párrafos largos)
+
+Qué debe contener cada experiencia:
+
+-Qué hiciste (acción)
+-Con qué (tecnología / método)
+-Para qué (impacto o resultado)
+
+Cosas que el ATS NO quiere (y penaliza)
+
+-Frases genéricas (ej: Profesional proactivo, Apasionado por la tecnología, )
+-Sinónimos innecesarios (usa el mismo término que la oferta).
+-Texto narrativo largo.
+-Listas mezcladas (skills + tareas + soft skills juntas).
+
