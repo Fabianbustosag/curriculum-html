@@ -8,6 +8,20 @@
     --font-size-lg: 1.3em;
 }
 
+@media print {
+    #curriculum {
+        display: table;
+        width: 100%;
+        height: 100vh;
+    }
+
+    .col-1,
+    .col-2 {
+        display: table-cell;
+        vertical-align: top;
+    }
+}
+
 /* BASE */
 
 body {
@@ -19,44 +33,28 @@ body {
 }
 
 #curriculum {
-    max-width: 750px;
     margin: 0 auto;
-    padding: 10px;
+    display: grid;
+    grid-template-columns: 30% 70%; /* 30 70 */
+}
+
+.col-1{
+    background-color: #005041;
+    color: #ffffff;
+}
+
+.col-2{
+    padding: 20px 40px 0 40px;
 }
 
 /* ************************/
 /* HEADER                 */
 /* ************************/
 
-header.contact-info {
-    text-align: center;
-    margin-bottom: 20px;
-}
-
-header.contact-info h1 {
-    font-size: 1.3em;
-    margin-bottom: 5px;
-    font-weight: bold;
-}
-
-header.contact-info p {
-    font-size: 1em;
-    color: #333;
-    margin: 0;
-}
-
-header.contact-info a {
-    color: #000000;
-    text-decoration: none;
-}
 
 /* ************************/
 /* SECTION CURRICULUM     */
 /* ************************/
-
-.section-curriculum {
-    border-top: 1px solid #ccc;
-}
 
 .section-title {
     font-size: var(--font-size-title);
@@ -68,10 +66,6 @@ header.contact-info a {
 /* PROFILE SECTION        */
 /* ************************/
 
-#professional-profile {
-    display: grid;
-    grid-template-columns: 25% 75%;
-}
 
 /* ************************/
 /* WORK EXPERIENCE SECTION*/
@@ -83,46 +77,10 @@ header.contact-info a {
     margin: 2px 0 0 0;
 }
 
-#work-experience .job-position .header-job {
-    display: grid;
-    grid-template-columns: 25% 75%;
-}
-
-#work-experience .job-position .responsabilities {
-    display: grid;
-    grid-template-columns: 25% 75%;
-}
-
 /* ************************/
 /* HARD SKILLS SECTION    */
 /* ************************/
 
-#hard-skills {
-    display: grid;
-    grid-template-columns: 25% 75%;
-}
-
 /* ************************/
 /* EDUCATION SECTION      */
 /* ************************/
-
-#education .education-data {
-    display: grid;
-    grid-template-columns: 25% 75%;
-}
-
-#education .date{
-    font-size: var(--font-size-sm);
-    font-weight: bold;
-    margin: 2px 0 0 0;
-}
-
-#education .details .section-subtitle{
-    font-size: var(--font-size-sm);
-    font-weight: bold;
-    margin: 2px 0 0 0;
-}
-
-#education .details p{
-    margin: 0;
-}
