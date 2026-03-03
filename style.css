@@ -5,7 +5,8 @@
     --font-size-xs: 0.85em;
     --font-size-sm: 1em;
     --font-size-md: 1.2em;
-    --font-size-lg: 1.3em;
+    --font-size-lg: 1.3em; 
+    --font-size-xl: 1.5em;
 }
 
 @media print {
@@ -32,6 +33,14 @@ body {
     background-color: #ffffff;
 }
 
+.section-curriculum{
+    font-family: "Open Sans", sans-serif;
+}
+
+.section-title{
+    font-family: "PT Serif", Georgia, serif;
+}
+
 #curriculum {
     margin: 0 auto;
     display: grid;
@@ -41,10 +50,44 @@ body {
 .col-1{
     background-color: #005041;
     color: #ffffff;
+    padding: 20px 10px 0 10px;
 }
 
 .col-2{
     padding: 20px 40px 0 40px;
+}
+
+
+
+#contact {
+  flex: 1;                 /* ocupa toda la columna */
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* centra vertical */
+}
+
+.col-1 .section-title {
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  margin: 0;
+}
+
+
+#title {
+  text-align: center;
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  margin: 0;
+}
+
+.col-2 .section-title {
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+}
+
+.contact-info ul {
+  list-style-type: none;
 }
 
 /* ************************/

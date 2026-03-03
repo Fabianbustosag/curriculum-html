@@ -101,7 +101,8 @@ function renderEducation(data) {
   `;
 }
 
-document.querySelector("header.contact-info").innerHTML = renderHeader(data);
+// document.querySelector("header.contact-info").innerHTML = renderHeader(data);
+// document.getElementById("contact-info").innerHTML = renderContact(data);
 document.getElementById("professional-profile").innerHTML = renderProfessionalProfile(data);
 document.getElementById("work-experience").innerHTML = renderWorkExperience(data);
 document.getElementById("hard-skills").innerHTML = renderHardSkills(data);
