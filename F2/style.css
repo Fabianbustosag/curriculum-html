@@ -30,6 +30,7 @@ body {
 
 header.contact-info {
     text-align: center;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
@@ -100,6 +101,20 @@ header.contact-info a {
 #hard-skills {
     display: grid;
     grid-template-columns: 25% 75%;
+}
+
+
+#hard-skills ul {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Dos columnas */
+    gap: 0px 0px; /* Espaciado opcional entre filas y columnas */
+    padding-left: 20px; /* Mantener sangría de lista */
+    margin: 5px;
+}
+
+#hard-skills ul li {
+    list-style: disc inside;
+    margin-bottom: 0px;
 }
 
 /* ************************/

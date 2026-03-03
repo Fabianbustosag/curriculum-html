@@ -19,6 +19,7 @@ const data = {
         "Creación de funciones en PL/pgSQL, implementación de triggers, vistas y optimización de consultas para mejorar el rendimiento y generación de reportes en PostgreSQL.",
         "Diseño y mejora de interfaces con JavaScript y Bootstrap, aplicando buenas prácticas para asegurar una experiencia accesible y fácil de usar.",
         "Lideré y participé en un proyecto de gestión logística para un cliente, ayudando a definir la estructura del sistema, los flujos de trabajo y documentando de forma clara, además de realizar pruebas para asegurar calidad.",
+        "Corrección de bugs y mejora continua de los sistemas ERP.",
       ],
     },
     {
@@ -27,11 +28,11 @@ const data = {
       period: "Sep 2022 — Feb 2023",
       location: "Concepción",
       responsabilities: [
-        "Desarrollo y etiquetado de zonas en QGIS, optimizando la preparación de datos geoespaciales para análisis posteriores.",
-        "Implementación de contenedores Docker para aplicaciones críticas, mejorando la portabilidad y acelerando los despliegues en entornos de desarrollo.",
+        "Desarrollo de funcionalidades en Python (Django) para recibir y procesar datos desde dispositivos ESP32",
         "Desarrollo de funcionalidades en OpenCV para la captura de imágenes desde cámaras, facilitando el preprocesamiento y la integración con herramientas de etiquetado ArUco.",
-        "Desarrollo de funcionalidades en Django para recibir y procesar datos desde dispositivos ESP32, facilitando la integración entre el hardware y el backend.",
-        "Desarrollo de interfaces de usuario y mejora de plantillas HTML y CSS para la proyección de mapas, optimizando la visualización y la interactividad en aplicaciones web.",
+        "Implementación de contenedores Docker para aplicaciones críticas, mejorando la portabilidad y acelerando los despliegues en entornos de desarrollo.",
+        "Desarrollo de interfaces de usuario y mejora de plantillas HTML y CSS para la proyección de mapas.",
+        "Desarrollo y etiquetado de zonas en QGIS, optimizando la preparación de datos geoespaciales para análisis posteriores.",
       ],
     },
     {
@@ -40,19 +41,19 @@ const data = {
       period: "Ene 2019 — Feb 2019",
       location: "Concepción",
       responsabilities: [
-        "Organización y clasificación de documentos, asegurando una gestión eficiente y un acceso rápido a la información requerida.",
         "Asistencia en la supervisión de una flota de vehículos, incluyendo la programación de mantenimientos y el monitoreo mediante Excel.",
+        "Organización y clasificación de documentos, asegurando una gestión eficiente y un acceso rápido a la información requerida.",
         "Comunicación con proveedores de automóviles para validar siniestros y coordinar la reparación de vehículos.",
       ],
     },
   ],
   hard_skills: [
     "Python",
-    "JavaScript",
     "PHP",
+    "JavaScript",
+    "COBOL (básico)",
     "PostgreSQL",
     "HTML/CSS/Bootstrap",
-    "COBOL (básico)",
     "Java",
   ],
   education: [

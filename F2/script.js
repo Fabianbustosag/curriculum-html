@@ -26,7 +26,7 @@ function renderWorkExperience(data) {
           <p>${job.period}</p>
         </div>
         <div class="company section-subtitle">
-          <p>${job.position}, ${job.company}, ${job.location}</p>
+          <p>${job.position}, ${job.company}</p>
         </div>
         </header>
         <div class="responsabilities">
