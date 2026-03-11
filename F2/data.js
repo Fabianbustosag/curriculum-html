@@ -7,7 +7,7 @@ const data = {
     email: "fabianbustosag@gmail.com",
   },
   professional_profile:
-    "Desarrollador de software con más de un año de experiencia en sistemas empresariales. Experiencia en desarrollo y mantenimiento de soluciones ERP con PHP y JavaScript, manejo de bases de datos SQL y PL/pgSQL. Conocimientos básicos en testing y COBOL (estructura del lenguaje, variables, control de flujo y archivos básicos), con alto interés en sistemas bancarios y financieros, motivación por aprender y crecer profesionalmente.",
+    "Desarrollador de software con más de un año de experiencia en sistemas ERP, participando en el desarrollo y mantenimiento de soluciones utilizando PHP, Python y JavaScript, además de realizar testing de software. Experiencia en gestión de bases de datos PostgreSQL y MySQL. Con conocimientos en COBOL (estructura del lenguaje, manejo de variables y control de flujo) y un alto interés en sistemas bancarios y financieros. Motivado por el aprendizaje continuo y el crecimiento profesional.",
   work_experience: [
     {
       position: "Desarrollador de Software",
@@ -19,7 +19,8 @@ const data = {
         "Creación de funciones en PL/pgSQL, implementación de triggers, vistas y optimización de consultas para mejorar el rendimiento y generación de reportes en PostgreSQL.",
         "Diseño y mejora de interfaces con JavaScript y Bootstrap, aplicando buenas prácticas para asegurar una experiencia accesible y fácil de usar.",
         "Lideré y participé en un proyecto de gestión logística para un cliente, ayudando a definir la estructura del sistema, los flujos de trabajo y documentando de forma clara, además de realizar pruebas para asegurar calidad.",
-        "Corrección de bugs y mejora continua de los sistemas ERP.",
+        "Corrección de bugs, resolución de errores e incidencias, y mejora continua de los sistemas ERP.",
+        "Implementación de pruebas unitarias en PHP y documentación para garantizar la calidad.",
       ],
     },
     {
@@ -42,8 +43,8 @@ const data = {
       location: "Concepción",
       responsabilities: [
         "Asistencia en la supervisión de una flota de vehículos, incluyendo la programación de mantenimientos y el monitoreo mediante Excel.",
-        "Organización y clasificación de documentos, asegurando una gestión eficiente y un acceso rápido a la información requerida.",
         "Comunicación con proveedores de automóviles para validar siniestros y coordinar la reparación de vehículos.",
+        "Organización y clasificación de documentos, asegurando una gestión eficiente y un acceso rápido a la información requerida.",
       ],
     },
   ],

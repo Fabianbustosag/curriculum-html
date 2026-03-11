@@ -1,3 +1,32 @@
+const TITLES = {
+  es: {
+    profile: "Perfil Profesional",
+    experience: "Experiencia Laboral",
+    skills: "Habilidades Técnicas",
+    education: "Educación"
+  },
+  es_upper: {
+    profile: "PERFIL PROFESIONAL",
+    experience: "EXPERIENCIA LABORAL",
+    skills: "HABILIDADES TÉCNICAS",
+    education: "EDUCACIÓN"
+  },
+  en: {
+    profile: "Professional Profile",
+    experience: "Work Experience",
+    skills: "Hard Skills",
+    education: "Education"
+  },
+  en_upper: {
+    profile: "PROFESSIONAL PROFILE",
+    experience: "WORK EXPERIENCE",
+    skills: "HARD SKILLS",
+    education: "EDUCATION"
+  }
+};
+
+const T = TITLES.es_upper; // Default to English titles
+
 function renderHeader(data) {
   return `
     <h1>${data.name}, ${data.title}</h1>
@@ -11,14 +40,14 @@ function renderHeader(data) {
 
 function renderProfessionalProfile(data) {
   return `
-    <h2 class="section-title">PROFESSIONAL PROFILE</h2>
+    <h2 class="section-title">${T.profile}</h2>
     <p>${data.professional_profile}</p>
   `;
 }
 
 function renderWorkExperience(data) {
   return `
-    <h2 class="section-title">WORK EXPERIENCE</h2>
+    <h2 class="section-title">${T.experience}</h2>
     ${data.work_experience.map(job => `
       <article class="job-position">
         <header class="header-job section-subtitle">
@@ -42,7 +71,7 @@ function renderWorkExperience(data) {
 
 function renderHardSkills(data) {
   return `
-    <h2 class="section-title">HARD SKILLS</h2>
+    <h2 class="section-title">${T.skills}</h2>
     <article>
       <ul>
         ${data.hard_skills.map(skill => `<li>${skill}</li>`).join("")}
@@ -53,7 +82,7 @@ function renderHardSkills(data) {
 
 function renderEducation(data) {
   return `
-    <h2 class="section-title">EDUCATION</h2>
+    <h2 class="section-title">${T.education}</h2>
     <div class="education-list">
       ${data.education.map(edu => `
         <article class="education-data">
