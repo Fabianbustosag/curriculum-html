@@ -7,7 +7,7 @@ const data = {
     email: "fabianbustosag@gmail.com",
   },
   professional_profile:
-       "Desarrollador backend con más de un año de experiencia en sistemas ERP, especializado en el desarrollo y mantenimiento de aplicaciones en PHP (Laravel, CodeIgniter). Experiencia en lógica de negocio en el área de RRHH e integraciones con el SII, desarrollando soluciones orientadas a procesos empresariales. Manejo de bases de datos PostgreSQL, optimización de consultas y procesamiento de información. Con conocimientos en JavaScript y Python como apoyo en el desarrollo, además de conocimientos basicos en testing de software. Interés en buenas prácticas, mejora continua y en sistemas financieros.",
+    "Desarrollador de software con experiencia en sistemas ERP, participando en el desarrollo y mantenimiento de soluciones utilizando PHP, Python y JavaScript, además de realizar testing de software. Experiencia en gestión de bases de datos PostgreSQL y MySQL. Con conocimientos en COBOL (estructura del lenguaje, manejo de variables y control de flujo) y un alto interés en sistemas bancarios y financieros. Motivado por el aprendizaje continuo y el crecimiento profesional en el área.",
   work_experience: [
     {
       position: "Desarrollador de Software",
