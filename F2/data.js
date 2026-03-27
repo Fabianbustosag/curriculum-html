@@ -52,10 +52,9 @@ const data = {
     "Python",
     "PHP",
     "JavaScript",
-    "COBOL (básico)",
     "PostgreSQL",
     "HTML/CSS/Bootstrap",
-    "Java",
+    "Testing unitario",
   ],
   education: [
     {
