@@ -54,7 +54,7 @@ const data = {
     "JavaScript",
     "PostgreSQL",
     "HTML/CSS/Bootstrap",
-    "Testing unitario (básico)",
+    "Testing unitario (básico) (Pytest)",
   ],
   education: [
     {

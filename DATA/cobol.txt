@@ -7,7 +7,7 @@ const data = {
     email: "fabianbustosag@gmail.com",
   },
   professional_profile:
-       "Desarrollador de software con más de un año de experiencia en sistemas ERP, participando en el desarrollo y mantenimiento de soluciones utilizando PHP, Python y JavaScript, además de realizar testing de software. Experiencia en gestión de bases de datos PostgreSQL y MySQL. Con conocimientos en COBOL básico y un alto interés en sistemas bancarios y financieros. Motivado por el aprendizaje continuo y el crecimiento profesional en el área.",
+       "Desarrollador de software con más de un año de experiencia en sistemas ERP, participando en el desarrollo y mantenimiento de soluciones utilizando PHP, Python y JavaScript, además de realizar testing de software. Experiencia en gestión de bases de datos PostgreSQL y MySQL. Con conocimientos en COBOL básico, con un alto interés en sistemas bancarios y financieros. Motivado por el aprendizaje en mainframe y el crecimiento profesional en el área.",
   work_experience: [
     {
       position: "Desarrollador de Software",
