@@ -7,7 +7,7 @@ const data = {
     email: "fabianbustosag@gmail.com",
   },
   professional_profile:
-       "Desarrollador de software con más de un año de experiencia en sistemas ERP, utilizando PHP, Python y JavaScript, además de experiencia en testing de software. Manejo de bases de datos PostgreSQL. Con conocimientos básicos de COBOL y JCL e interés en sistemas bancarios y financieros. Motivado por el aprendizaje en entornos Mainframe y el crecimiento profesional en el área.",
+       "Desarrollador de software con más de un año de experiencia en sistemas ERP, especializado en el desarrollo y mantenimiento de aplicaciones en PHP (Laravel, CodeIgniter). Experiencia desarrollando soluciones orientadas a procesos empresariales. Manejo de bases de datos PostgreSQL, optimización de consultas y procesamiento de información. Con conocimientos en JavaScript y Python como apoyo en el desarrollo, además de conocimientos básicos en testing de software.",
   work_experience: [
     {
       position: "Desarrollador de Software",
@@ -15,7 +15,7 @@ const data = {
       period: "Ene 2025 — Presente",
       location: "Concepción",
       responsabilities: [
-        "Desarrollo y mantenimiento de módulos ERP en áreas como Recursos Humanos, Facturación, Logística y Seguimiento Satelital, utilizando Laravel y CodeIgniter con PHP bajo arquitectura MVC.",
+        "Desarrollo y mantenimiento de módulos ERP utilizando Laravel y CodeIgniter.",
         "Creación de funciones en PL/pgSQL, implementación de triggers, vistas y optimización de consultas para mejorar el rendimiento y generación de reportes en PostgreSQL.",
         "Diseño y mejora de interfaces con JavaScript y Bootstrap, aplicando buenas prácticas para asegurar una experiencia accesible y fácil de usar.",
         "Lideré y participé en un proyecto de gestión logística para un cliente, ayudando a definir la estructura del sistema, los flujos de trabajo y documentando de forma clara, además de realizar pruebas para asegurar calidad.",
@@ -51,10 +51,10 @@ const data = {
   hard_skills: [
     "Python",
     "PHP",
-    "JavaScript",
-    "COBOL (básico)",
+    "JavaScript/React",
     "PostgreSQL",
-    "HTML/CSS/Bootstrap"  ],
+    "Testing unitario (básico)",
+  ],
   education: [
     {
       period: "Mar 2021 — Dic 2025",
